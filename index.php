@@ -147,7 +147,7 @@
         <div class="container">
           <div class="row text-center mb-3">
             <div class="col">
-              <h2>Contact Me</h2>
+              <h4>Contact Me</h4>
             </div>
           </div>
           <div class="row justify-content-center">
